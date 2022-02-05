@@ -1,4 +1,6 @@
-# rick-and-morty
+# Rick and Morty
+
+Tarjetas de Información sobre los personajes de la serie Rick and Morty, con un buscador por nombre y el estado en el que se encuentra cada personaje.
 
 ## Project setup
 ```
